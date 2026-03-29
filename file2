@@ -1,3 +1,4 @@
+HEAD
 Updated upstream
 HEAD
 Updated upstream
@@ -10,9 +11,21 @@ ihi afternoon
 Stashed changes
  HEAD
 
+Updated upstream
+ Updated upstream
+ branch b is conflict
+
 C wassup
 ihi afternoon
+ HEAD
 Stashed changes
 
 conflict resolved
+
+Stashed changes
+
+C wassup
+ihi afternoon
+Stashed changes
+branch b is conflict
 hi everyone and changed by person 2
